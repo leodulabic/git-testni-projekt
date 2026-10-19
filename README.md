@@ -13,3 +13,4 @@ Preprost kalkulator v programskem jeziku C.
 ## Namen projekta
 Projekt je namenjen praktičnemu preizkušanju sistema Git in GitHuba.
 Projekt uporabljam za praktično učenje sistema Git in GitHub.
+Projekt uporablja Git za sledenje spremembam.
