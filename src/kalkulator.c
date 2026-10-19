@@ -7,10 +7,10 @@ int main() {
     printf("Vnesite prvo stevilo: ");
     scanf("%lf", &a);
 
-    printf("Unesi operaciju (+, -, *, /): ");
+    printf("Vnesite operacijo (+, -, *, /): ");
     scanf(" %c", &operacija);
 
-    printf("Vnesite drugo stevilo: ");
+    printf("Vnesite stevilo: ");
     scanf("%lf", &b);
 
     switch (operacija) {
