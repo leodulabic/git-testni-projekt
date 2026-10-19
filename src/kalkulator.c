@@ -4,13 +4,13 @@ int main() {
     double a, b;
     char operacija;
 
-    printf("Unesi prvi broj: ");
+    printf("Vnesite prvo stevilo: ");
     scanf("%lf", &a);
 
     printf("Unesi operaciju (+, -, *, /): ");
     scanf(" %c", &operacija);
 
-    printf("Unesi drugi broj: ");
+    printf("Vnesite drugo stevilo: ");
     scanf("%lf", &b);
 
     switch (operacija) {
