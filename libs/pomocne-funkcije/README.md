@@ -1,0 +1,1 @@
+Zajednicke pomocne funkcije

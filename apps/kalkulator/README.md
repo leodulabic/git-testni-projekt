@@ -1,0 +1,1 @@
+Glavna aplikacija kalkulatora
